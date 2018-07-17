@@ -23,9 +23,9 @@ definition(
     author: "Justin Huff",
     description: "Connect to Rheem EcoNet",
     category: "SmartThings Labs",
-    iconUrl: "http://smartthings.copyninja.net/icons/Rheem_EcoNet@1x.png",
-    iconX2Url: "http://smartthings.copyninja.net/icons/Rheem_EcoNet@2x.png",
-    iconX3Url: "http://smartthings.copyninja.net/icons/Rheem_EcoNet@3x.png")
+    iconUrl: "https://github.com/MjnMixael/SmartThings_RheemEcoNet/blob/master/Images/Rheem.png",
+    iconX2Url: "https://github.com/MjnMixael/SmartThings_RheemEcoNet/blob/master/Images/Rheem%402x.png",
+    iconX3Url: "https://github.com/MjnMixael/SmartThings_RheemEcoNet/blob/master/Images/Rheem%403x.png")
 
 
 preferences {
